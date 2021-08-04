@@ -1,1 +1,1 @@
-# scope_closuseJS
+# scope_closureJS
